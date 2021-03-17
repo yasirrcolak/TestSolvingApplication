@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.Welcome.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.Properties.Resources.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\bin\Debug\Solving_Test.exe.config
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\bin\Debug\Solving_Test.exe
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\bin\Debug\Solving_Test.pdb
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.exe
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.pdb
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.Guidance.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.CreateQuestion.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.SolveQuestion.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.HighScore.resources
+C:\Users\muham\source\repos\Solving_Test\Solving_Test\obj\Debug\Solving_Test.TestSelect.resources
